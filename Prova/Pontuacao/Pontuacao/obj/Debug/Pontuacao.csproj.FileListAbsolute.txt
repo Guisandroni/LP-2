@@ -1,0 +1,10 @@
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\bin\Debug\Pontuacao.exe.config
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\bin\Debug\Pontuacao.exe
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\bin\Debug\Pontuacao.pdb
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\obj\Debug\Pontuacao.csprojAssemblyReference.cache
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\obj\Debug\Pontuacao.Form1.resources
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\obj\Debug\Pontuacao.Properties.Resources.resources
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\obj\Debug\Pontuacao.csproj.GenerateResource.cache
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\obj\Debug\Pontuacao.csproj.CoreCompileInputs.cache
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\obj\Debug\Pontuacao.exe
+C:\Users\0030482121040\source\repos\Pontuacao\Pontuacao\obj\Debug\Pontuacao.pdb
